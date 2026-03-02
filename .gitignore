@@ -65,5 +65,6 @@ prefabs.json
 build-cmake-*/
 .cache/
 .claude/
+!.claude/translation/manifest.json
 CMakeLists.txt
 compile_commands.json
