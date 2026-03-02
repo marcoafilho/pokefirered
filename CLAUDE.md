@@ -327,10 +327,16 @@ Brazilian Portuguese text averages **15-30% longer** than English. Strategies:
 ### Character Set
 
 The game supports these Brazilian Portuguese-specific characters:
-- `À Á Â Ã Ç É Ê Í Ó Ô Õ Ú` (uppercase)
-- `à á â ã ç é ê í ó ô õ ú` (lowercase)
+- `À Á Â Ã Ç É Ê Í Ó Ô Õ Ú Ü` (uppercase)
+- `à á â ã ç é ê í ó ô õ ú ü` (lowercase)
 
-**Important for Brazilian Portuguese**: Characters like **Ã** and **Õ** are essential (used in "não", "ação", "põe", etc.). Verify these are available in `charmap.txt`.
+**Important for Brazilian Portuguese**: Characters like **Ã** and **Õ** are essential (used in "não", "ação", "põe", etc.). These characters are now properly mapped in `charmap.txt`:
+- `'Ã' = F1`
+- `'Õ' = F2`
+- `'ã' = F4`
+- `'õ' = F5`
+
+You can now freely use these characters in all Brazilian Portuguese translations.
 
 ### Standard Brazilian Portuguese Translation Patterns
 
