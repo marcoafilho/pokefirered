@@ -64,5 +64,6 @@ prefabs.json
 *.sym
 build-cmake-*/
 .cache/
+.claude/
 CMakeLists.txt
 compile_commands.json
