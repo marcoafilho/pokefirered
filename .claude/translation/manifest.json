@@ -52,9 +52,9 @@
     {
       "id": "PT-B003",
       "tier": 1,
-      "status": "pending",
-      "assigned_to": null,
-      "claimed_at": null,
+      "status": "in_progress",
+      "assigned_to": "coordinator_claude",
+      "claimed_at": "2026-03-02T21:30:00Z",
       "completed_at": null,
       "files": [
         {
