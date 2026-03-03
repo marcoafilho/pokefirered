@@ -1,38 +1,47 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All boys leave home someday.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MÃE: …Certo.\n"
+    .string "Todo menino sai de\n"
+    .string "casa um dia.\l"
+    .string "Foi o que falaram\n"
+    .string "na TV.\p"
+    .string "Ah, sim. O PROF.\n"
+    .string "CARVALHO, da casa ao\n"
+    .string "lado, te procurava.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MOM: …Right.\n"
-    .string "All girls dream of traveling.\l"
-    .string "It said so on TV.\p"
-    .string "Oh, yes. PROF. OAK, next door, was\n"
-    .string "looking for you.$"
+    .string "MÃE: …Certo.\n"
+    .string "Toda menina sonha\n"
+    .string "em viajar.\l"
+    .string "Foi o que falaram\n"
+    .string "na TV.\p"
+    .string "Ah, sim. O PROF.\n"
+    .string "CARVALHO, da casa ao\n"
+    .string "lado, te procurava.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MOM: {PLAYER}!\n"
-    .string "You should take a quick rest.$"
+    .string "MÃE: {PLAYER}!\n"
+    .string "Você devia descansar\n"
+    .string "um pouco.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MOM: Oh, good! You and your\n"
-    .string "POKéMON are looking great.\l"
-    .string "Take care now!$"
+    .string "MÃE: Que bom! Você e\n"
+    .string "seus POKéMON estão\n"
+    .string "ótimos.\l"
+    .string "Cuide-se bem!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::
-    .string "There's a movie on TV.\n"
-    .string "Four boys are walking on railroad\l"
-    .string "tracks.\p"
-    .string "…I better go, too.$"
+    .string "Tem um filme na TV.\n"
+    .string "Quatro meninos andam\n"
+    .string "nos trilhos do trem.\l"
+    .string "…Eu devia ir também.$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoad::
-    .string "There's a movie on TV.\n"
-    .string "A girl with her hair in pigtails is\l"
-    .string "walking up a brick road.\p"
-    .string "…I better go, too.$"
+    .string "Tem um filme na TV.\n"
+    .string "Uma menina de\n"
+    .string "tranças anda por uma\n"
+    .string "estrada de tijolos.\l"
+    .string "…Eu devia ir também.$"
 
 PalletTown_PlayersHouse_1F_Text_OopsWrongSide::
-    .string "Oops, wrong side…$"
+    .string "Ops, lado errado…$"
 
